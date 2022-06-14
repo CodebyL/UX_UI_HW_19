@@ -7,15 +7,15 @@ html {
     }
 
 #skills {
-    
+    height: 0px;
 }
 
 #work {
-    
+    height: 1150px;
 }
 
 #contact {
-   
+    height: 0px;
 }
 
 a:link {
