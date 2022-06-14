@@ -1,3 +1,23 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+#about {
+    height: 600px;
+    }
+
+#skills {
+    height: 600px;
+}
+
+#work {
+    height: 600px;
+}
+
+#contact {
+    height: 600px;
+}
+
 a:link {
     color: rgb(0, 0, 0);
     background-color: transparent;
